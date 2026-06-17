@@ -44,9 +44,9 @@ Your environment should be ready, but before starting lecture or a new assignmen
 
   - [x] 00 Intro
   - [x] 01 Welcome to the Digital World
-  - [ ] 02 From Text to Machine
-  - [ ] 03 ...
-  - [ ] 04 ...
+  - [x] 02 From Text to Machine
+  - [x] 03 A Full MVC Example
+  - [x] 04 Interrupts and Stacks
 ---
 
 ## Reference Documents
